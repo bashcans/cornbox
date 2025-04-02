@@ -26,10 +26,11 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
+  --imgbg: url(assets/background09.jpg); /* Image URL */
   --imgcol: linear-gradient(
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.7)
+    to bottom right,
+    rgba(181, 220, 202, 0.45),
+    rgba(120, 228, 131, 0.47)
   ); /* Filter color */
 }
 
