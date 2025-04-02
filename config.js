@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'bathcorn',
+	name: 'bash',
 	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -66,15 +66,15 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Chrome Store',
+			icon: 'chrome',
+			link: 'https://chromewebstore.google.com/',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Games',
+			icon: 'gamepad-2',
+			link: 'https://fitgirl-repacks.site/',
 		},
 		{
 			id: '5',
@@ -84,9 +84,9 @@ const CONFIG = {
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'Music',
+			icon: 'arrow-down-to-line',
+			link: 'https://dabplayer.vercel.app/',
 		},
 	],
 
@@ -140,20 +140,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'z0mbi3 dots',
-					link: 'https://github.com/gh0stzk/dotfiles',
+					name: 'Current Dots',
+					link: 'https://end-4.github.io/dots-hyprland-wiki/en/',
 				},
 				{
-					name: 'My CU Info',
-					link: 'https://www.colorado.edu/resources/mycuinfo-cu-boulder-employee-portal',
+					name: 'Chrome Store',
+					link: 'http://chromewebstore.google.com/',
 				},
 				{
 					name: 'Korean',
 					link: 'https://koreanjun.com',
 				},
 				{
-					name: 'MonkeyType',
-					link: 'https://monkeytype.com/',
+					name: 'FMHY',
+					link: 'https://fmhy.pages.dev',
 				},
 			],
 		},
@@ -162,20 +162,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'FMHY',
-					link: 'https://fmhy.pages.dev',
-				},
-				{
 					name: 'Youtube',
 					link: 'https://www.youtube.com',
 				},
 				{
-					name: 'Movies & TV',
-					link: 'https://rivestream.live',
+					name: 'Music',
+					link: 'https://dabplayer.vercel.app/',
 				},
 				{
-					name: 'Twitch',
-					link: 'https://www.twitch.tv',
+					name: 'BigBossBoze',
+					link: 'https://www.twitch.tv/bigbossboze',
+				},
+				{
+					name: 'ForeignFridays',
+					link: 'https://www.twitch.tv/foreignfridays',
 				},
 			],
 		},
@@ -188,38 +188,38 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Flocus',
-					link: 'app.flocus.com',
+					name: 'Pomodoro',
+					link: 'https://www.wonderspace.app/',
 				},
 				{
-					name: 'Gmail',
-					link: 'https://www.gmail.com',
+					name: 'Learning Directory',
+					link: 'https://freelearninglist.org/',
 				},
 				{
-					name: 'Protonmail',
+					name: 'Proton Mail',
 					link: 'https://account.proton.me/mail',
 				},
 				{
-					name: 'Mind Maps',
-					link: 'https://www.coolmindmaps.com/',
+					name: 'ADHD Resources',
+					link: 'https://www.additudemag.com/',
 				},
 			],
 		},
 		{
-			icon: 'binary',
+			icon: 'cpu',
 			id: '2',
 			links: [
 				{
-					name: 'Github',
-					link: 'https://github.com/',
-				},
-				{
-					name: 'Arch Wiki',
+					name: 'Wiki',
 					link: 'https://wiki.archlinux.org/',
 				},
 				{
-					name: 'Dotshare.it',
-					link: 'http://dotshare.it/',
+					name: 'Packages',
+					link: 'https://archlinux.org/packages/',
+				},
+				{
+					name: 'AUR Packages',
+					link: 'https://aur.archlinux.org/',
 				},
 				{
 					name: 'AlternativeTo',
