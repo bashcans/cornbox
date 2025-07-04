@@ -19,7 +19,7 @@ const CONFIG = {
 
 	// Greetings
 	greetingMorning: 'We ride at dawn,',
-	greetingAfternoon: 'Big up, big man',
+	greetingAfternoon: 'Big up, dawg',
 	greetingEvening: 'Its quittin time,',
 	greetingNight: 'Nah, cuz why u up,',
 
@@ -66,9 +66,9 @@ const CONFIG = {
 		},
 		{
 			id: '3',
-			name: 'Chrome Store',
-			icon: 'chrome',
-			link: 'https://chromewebstore.google.com/',
+			name: 'Firefox Add-Ons',
+			icon: 'firefox',
+			link: 'https://addons.mozilla.org/en-US/firefox/',
 		},
 		{
 			id: '4',
@@ -144,8 +144,8 @@ const CONFIG = {
 					link: 'https://end-4.github.io/dots-hyprland-wiki/en/',
 				},
 				{
-					name: 'Chrome Store',
-					link: 'http://chromewebstore.google.com/',
+					name: 'Firefox Add-Ons',
+					link: 'https://addons.mozilla.org/en-US/firefox/',
 				},
 				{
 					name: 'Korean',
