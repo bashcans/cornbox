@@ -144,8 +144,8 @@ const CONFIG = {
 					link: 'https://end-4.github.io/dots-hyprland-wiki/en/',
 				},
 				{
-					name: 'Firefox Add-Ons',
-					link: 'https://addons.mozilla.org/en-US/firefox/',
+					name: 'Extensions',
+					link: 'https://chromewebstore.google.com',
 				},
 				{
 					name: 'Korean',
